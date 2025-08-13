@@ -1,0 +1,21 @@
+This is a test function. There will be a list of different functions to parse through with Git.
+
+public TestFunction() { }
+
+public ReadFile() { }
+
+public WriteFile() { }
+
+public DeleteFile() { }
+
+public UpdateFile() { }
+
+public CreateNewApp() { }
+
+public TestCreateNewApp() { }
+
+public TryNewTestApp() { }
+
+public ReadNewAppThenUpdate() { }
+
+public DeleteThenUpdateAndThenDeleteApp() { }

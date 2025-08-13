@@ -1,0 +1,11 @@
+[some_part_of_app]
+TestFunction, UpdateFile
+
+[another_part_of_app]
+TryNewTestApp, FillerApp, FillerFunction, DeleteFile
+
+[another_smaller_part_of_app]
+ReadNewAppThenUpdate, FillerUnFile, NotRealFunction, NoTestCaseFunction
+
+[main_part_of_app]
+CreateNewApp, DeleteFile, ReadFile, FillerFileFunc, WriteFile
